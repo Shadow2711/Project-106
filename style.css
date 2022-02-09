@@ -1,0 +1,41 @@
+.header_div{
+    color: cornflowerblue;
+    background-color:darkslategray;
+    font-family: 'Supermercado One', cursive;
+}
+.header_div p{
+    color: whitesmoke;
+    letter-spacing: 4px;
+    font-family: 'Supermercado One', cursive;
+    font-weight: bold;
+    font-size: 14px;
+}
+.main_div button{
+    border-radius: 100px;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    background-color: burlywood;
+    }
+.footer_div{
+    letter-spacing: 1px;
+    color: black;
+    position: fixed;
+    text-shadow: 5px 15px 3px darkcyan;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    background-color: lightsteelblue;
+    line-height: 3;
+}
+.main_div{
+    background-color: grey;
+    color: burlywood;
+}
+.header_div h1{
+    text-shadow: 5px 15px 15px black;
+}
